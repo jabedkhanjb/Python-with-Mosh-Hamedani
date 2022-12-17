@@ -1,0 +1,13 @@
+Task 2: Create a Program that Prints the ID Card of  Jabed, Rejwan, and Shaminaj
+
+ID Card information is:
+1. name
+2. Id
+3. department
+4. Mobile number
+
+You can follow the guideline to achieve your goal:
+
+a) Create a class and add necessary members
+b) Printing will be done with PrintIDCard() method in your code.
+c) The information should be fed during object creation.

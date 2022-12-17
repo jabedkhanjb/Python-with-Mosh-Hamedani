@@ -1,0 +1,5 @@
+birthday = input("My Birth Year: ")
+print(type(birthday))
+age = 2022 - int(birthday)
+print(type(age))
+print("My current birthday is", age)

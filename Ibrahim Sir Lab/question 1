@@ -1,0 +1,11 @@
+Task 1: Jabed, Rejwan, and Shaminaj are three students in the class.
+
+Given Courses Are:
+1. Visual Programming
+2. DBMS
+3. OS
+
+a) Collect their obtained marks as input through keyboard
+b) Calculate their average marks
+c) Calculate who obtained the highest marks in OS
+d) Calculate who obtained the lowest marks in DBMS

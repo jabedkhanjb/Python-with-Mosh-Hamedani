@@ -1,0 +1,5 @@
+Task 3: Create a Program that prints numbers from 1……100 with following extra features:
+
+a) Calculate how many odd numbers are there
+b) Calculate how many even numbers are there
+c) Calculate how many prime numbers are there
