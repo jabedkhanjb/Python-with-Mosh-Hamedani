@@ -9,5 +9,5 @@ name = input("")
 person = f"{name} is a"
 
 for i in text:
-	jb.write(person +' '+ i)
+	jb.write(person + ' ' + i)
 	jb.press("Enter")

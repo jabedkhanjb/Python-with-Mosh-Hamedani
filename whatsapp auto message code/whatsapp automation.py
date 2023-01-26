@@ -12,3 +12,4 @@ while i < int(msg_limit):
     jabedkhanjb.typewrite(text_msg)
     jabedkhanjb.press("Enter")
     i += 1
+
